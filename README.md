@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ikyyxzdev</h1>
+<h1 align="center">Hi 👋, I'm Ikyyxz</h1>
 <h3 align="center">Web Developer • Hosting Developer • Game Developer</h3>
 
 <p align="center">
@@ -26,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 </p>
 
 **Hosting & DevOps:**
@@ -53,9 +54,9 @@
 
 ### 🌐 Connect With Me
 
-- 📧 Email: admin@ikyyxznetworkid.cloud  
+- 📧 Email: rizkyramadanii244@gmail.com 
 - 💬 Discord: `@ikyyxz.inc`  
-- 🛠️ Projects SA-MP: https://forum.westsiderp.my.id
+- 🛠️ Projects SA-MP: https://grandprojectrp.xyz
 
 ---
 
